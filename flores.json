@@ -3,7 +3,7 @@
         {"id":"0","name":"Margaritas", "description":"Bellis perennis"},
         {"id":"1","name":"Disentes de Leon", "description":"Taraxcum officinale"},
         {"id":"2","name":"Rosas", "description":"Roses"},
-        {"id":"3","name":"Girasoles", "description":"Kelianthus annuus"},
+        {"id":"3","name":"Girasoles", "description":"Helianthus annuus"},
         {"id":"4","name":"Tulipanes", "description":"Tulipa"}
     ]
 }
