@@ -3,9 +3,9 @@
     {
       "id":"0",
       "nombre":"Ambroxol",
-      "contraindicaciones":"RESTRICCIONES DE USO DURANTE EL EMBARAZO Y LA LACTANCIA",
+      "contraindicaciones":"Restricciones de uso durante embarazo y lactancia",
       "uso":"INfecciones agudas y crónicas de las vías respiratorias",
-      "dosis":["Jarabe 3 mg/ml","Jarabe 15 mg/5 ml"]
+      "dosis":"Jarabe 3 mg/ml, Jarabe 15 mg/5 ml"
     },
     {
       "id":"1",
