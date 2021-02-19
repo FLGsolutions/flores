@@ -4,42 +4,42 @@
       "id":"0",
       "nombre":"Ambroxol",
       "contraindicaciones":"Restricciones de uso durante embarazo y lactancia",
-      "uso":"INfecciones agudas y crónicas de las vías respiratorias",
+      "uso":"Infecciones agudas y crónicas de las vías respiratorias",
       "dosis":"Jarabe 3 mg/ml, Jarabe 15 mg/5 ml"
     },
     {
       "id":"1",
       "nombre":"Amoxicilina",
-      "contraindicaciones":"En pacientes con alergias conocidas a las penicilinas, a las cefalosporinas o al imipenem.",
-      "uso":"infecciones provocadas por bacterias como la neumonía; la bronquitis",
-      "dosis":["Comp. dispersable 1000 mg","Polvo para susp. oral 1000 mg"]
+      "contraindicaciones":"Pacientes con alergias conocidas a las penicilinas, a las cefalosporinas o al imipenem",
+      "uso":"Infecciones provocadas por bacterias como la neumonía; la bronquitis",
+      "dosis":"Comp. dispersable 1000 mg, Polvo para susp. oral 1000 mg"
     },
     {
       "id":"2",
       "nombre":"Aspirina",
       "contraindicaciones":"Un trastorno de la coagulación o de sangrado (sangrar con facilidad) Alergia a la aspirina",
-      "uso":"bajar la fiebre y aliviar el dolor leve a moderado causado por dolor de cabeza",
-      "dosis":["Comp. 500/50 mg","Comp. efervescente 400/240 mg"]
+      "uso":"Bajar la fiebre y aliviar el dolor leve a moderado causado por dolor de cabeza",
+      "dosis":"Comp. 500/50 mg, Comp. efervescente 400/240 mg"
     },
     {
       "id":"3",
       "nombre":"Captopril",
-      "contraindicaciones":"Está contraindicado en pacientes con hipersensibilidad al CAPTOPRIL o a cualquier otro inhibidor de la enzima convertidora",
-      "uso":"tratamiento de la presión arterial elevada (hipertensión)",
-      "dosis":["Comp. ranurado 25 mg","Comp. 50 mg"]
+      "contraindicaciones":"Pacientes con hipersensibilidad al CAPTOPRIL o a cualquier otro inhibidor de la enzima convertidora",
+      "uso":"Hipertensión",
+      "dosis":"Comp. ranurado 25 mg, Comp. 50 mg"
     },
     {
       "id":"4",
       "nombre":"Clonazepam",
-      "contraindicaciones":"CONTRAINDICACIONES: CLONAZEPAM se encuentra contraindicado en pacientes con historia de hipersensibilidad a las benzodiacepinas",
-      "uso":"tratamiento de ciertos trastornos convulsivo",
+      "contraindicaciones":"Pacientes con historia de hipersensibilidad a las benzodiacepinas",
+      "uso":"Tratamiento de ciertos trastornos convulsivo",
       "dosis": "Comp. 2 mg"
     },
     {
       "id":"5",
       "nombre":"Ketorolaco",
-      "contraindicaciones":"KETOROLACO TROMETAMINA está contraindicado en los pacientes con úlcera gastroduodenal activa",
-      "uso":"aliviar el dolor moderadamente fuerte",
+      "contraindicaciones":"Pacientes con úlcera gastroduodenal activa",
+      "uso":"Aliviar el dolor moderadamente fuerte",
       "dosis":"Sol. iny. 30 mg/ml"
     },
     {
@@ -67,7 +67,7 @@
       "id":"9",
       "nombre":"Paracetamol",
       "contraindicaciones":"Hipersensibilidad a paracetamol, a clorhidrato de propacetamol",
-      "uso":"fiebre, dolor de cualquier etiología de intensidad leve",
+      "uso":"Fiebre, dolor de cualquier etiología de intensidad leve",
       "dosis":"Comp. 500 mg"
     }
   ]
